@@ -1314,6 +1314,35 @@ a {
   list-style-type: none;
   padding: 0;
 }
+.cid-KTOVnxdvoh .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 16px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-KTOVnxdvoh .my-float {
+  margin-top: 16px;
+}
+.cid-KTOVnxdvoh P {
+  color: #232323;
+}
+.cid-KTOVnxdvoh DIV {
+  color: #ffffff;
+}
+.cid-KTOVnxdvoh H10 {
+  color: #767676;
+}
+.cid-KTOVnxdvoh .hidden {
+  display: none;
+}
 .cid-tXNMLD6L2U {
   z-index: 1000;
   width: 100%;
